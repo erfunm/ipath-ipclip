@@ -3,7 +3,7 @@
 **TL;DR** — Minimal, readable pipeline for training and evaluating **IP-CLIP**, a CLIP model fine-tuned on the **IPATH** histopathology image–caption dataset (sourced from Instagram). Includes **zero-shot classification** and **linear probing** on external pathology datasets.
 
 <p align="center">
-  <img src="docs/images/fig-arch-small.png" alt="IP-CLIP architecture (text and image encoders with similarity matrix)" width="720">
+  <img src="fig-arch-small.png" alt="IP-CLIP architecture (text and image encoders with similarity matrix)" width="720">
 </p>
 
 ## Highlights
